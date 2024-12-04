@@ -108,4 +108,4 @@ Ao completar esses exercícios, aprendi a criar componentes em React, utilizar `
 - **Componentização**:
   - Dividir a aplicação em componentes menores e reutilizáveis torna o código mais organizado e fácil de manter.
 
-  ![(Foto.png)]
+  ![SLA](Foto.png)
